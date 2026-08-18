@@ -547,6 +547,8 @@ Média: 7.5 // output
 - [MEDIA_PROCEDIMENTO.ALG](./Exercicios_Resolvidos/MEDIA_PROCEDIMENTO.ALG)
 
 
-## Continuidade do projeto
+## Continuidade dos estudos
 
-Novos exercícios serão adicionados conforme o avanço dos meus estudos em lógica de programação, algoritmos e desenvolvimento de software.
+Este repositório representa a etapa dos meus estudos dedicada aos fundamentos de lógica de programação e algoritmos utilizando Portugol/Visualg.
+
+Com a conclusão dessa fase, meus estudos seguem agora para a linguagem C, onde continuarei aplicando e aprofundando os conceitos desenvolvidos ao longo destes exercícios.
